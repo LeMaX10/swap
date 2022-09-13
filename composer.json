@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^7.1.3 || ^8.0 || ^8.1",
-        "florianv/exchanger": "^2.0"
+        "LeMaX10/exchanger": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^7 || ^8 || ^9",
